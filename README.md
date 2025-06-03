@@ -10,5 +10,5 @@ This project is part of a master's thesis that aims to solve the Kuramoto–Siva
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/ks-pinn.git
+   git clone https://github.com/ugurkaymaz-hub/PINN-.git
    cd ks-pinn
